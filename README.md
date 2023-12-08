@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sadeepa lakshna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeepa lakshna" height="30" width="40" /></a>
-<a href="https://fb.com/sadeepa lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sadeepa lakshan" height="30" width="40" /></a>
-<a href="https://instagram.com/isadee__01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isadee__01" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100080670498059&sk=about_overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080670498059&sk=about_overview" height="30" width="40" /></a>
+<a href="https://instagram.com/isadee00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isadee00" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
