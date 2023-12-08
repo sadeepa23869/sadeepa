@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sadeepa lakshna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeepa lakshna" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sadeepa-lakshan-401123280?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boughlkmcsce0huz396yufa%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sadeepa-lakshan-401123280?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3boughlkmcsce0huz396yufa%3d%3d" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100080670498059&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100080670498059&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/isadee00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="isadee00" height="30" width="40" /></a>
 </p>
